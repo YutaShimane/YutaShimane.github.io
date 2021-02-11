@@ -73,7 +73,7 @@ header #logo img {
 	display: inline-block;
 	margin: 0 1%;
 	animation-name: opa1;
-	animation-delay: 1S;
+	animation-delay: 0.3S;
 	animation-duration: 1S;
 	animation-fill-mode: both;
 }
