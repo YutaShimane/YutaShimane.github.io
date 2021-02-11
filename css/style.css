@@ -74,7 +74,7 @@ header #logo img {
 	margin: 0 1%;
 	animation-name: opa1;
 	animation-delay: 0.1S;
-	animation-duration: 1S;
+	animation-duration: 0.5S;
 	animation-fill-mode: both;
 }
 #menubar li a {
